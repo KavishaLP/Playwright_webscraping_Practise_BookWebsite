@@ -70,6 +70,8 @@ The scraped data is stored in `output/books.json` with the following fields:
 - `rating`: Star rating (One to Five)
 - `availability`: Stock status
 - `page`: Page number where it was found
+- <img width="994" height="498" alt="image" src="https://github.com/user-attachments/assets/8ca2e756-1a25-43a8-a380-ed79d7078380" />-INTERFACE
+
 
 ## 🤝 Contributing
 Feel free to submit issues or pull requests if you find any bugs or have suggestions for improvements.
