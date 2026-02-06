@@ -1,0 +1,7 @@
+playwright
+asyncio
+pandas
+ipywidgets
+jupyter
+matplotlib
+seaborn
